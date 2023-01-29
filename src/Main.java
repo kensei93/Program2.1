@@ -3,7 +3,7 @@ public class Main {
 
         int rub = 20; // каждые 20 рублей потраченные за билет
         int ticket = 600; // стоимость билета
-        int bonus = ticket/rub;
+        int bonus = ticket / rub;
 
         System.out.println("Начисленные мили:" + bonus);
     }
